@@ -1,0 +1,6 @@
+lib/
+target/
+project
+/bin/
+dist/
+.idea/
